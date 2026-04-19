@@ -13,3 +13,5 @@ A simple Wordle game built with React.
 - React
 - useState
 - Conditional Rendering
+## Live Demo:
+https://wordle-react-game.vercel.app/
